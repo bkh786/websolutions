@@ -1,1 +1,0 @@
-require('./build_pages');
